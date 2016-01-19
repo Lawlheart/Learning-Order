@@ -18,24 +18,6 @@ I believe these are strengths and weaknesses of each program:
 | - no projects (behind paywall)	| - video based, so pace is set for you.  | - potentially steep learning curve |
 
 
-### Treehouse
-Pros:
- - More thorough coverage of topics
- - More topics covered
-
-Cons:
- - (mostly) walks you through problems
- - video based, so pace is set for you.
-
-### FreeCodeCamp
-Pros:
- - Lots of practical projects
- - Emphasis on problem solving
-
-Cons:
- - under-developed lessons
- - potentially steep learning curve
-
 ## The Strategy
 ****
 Using this knowledge, I've found an effective strategy to be to use codecademy as syntax practice, treehouse as foundation building, and freecodecamp as a source of quick review and projects. Below
@@ -108,6 +90,7 @@ Front End Development II
  - FCC 	Advanced Algorithm Scripting
 
 `* potentially optional`
+
 `# new and/or unevaluated by me`
 
 Notes:
@@ -144,7 +127,7 @@ d3.js
 #### FULLSTACK JAVASCRIPT
 
 Console and Git
- - H  Console Foundations
+ - TH  Console Foundations
  - FCC Automated Testing and Debugging
  - TH  Git Basics
  - FCC Git
