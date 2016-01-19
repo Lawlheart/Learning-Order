@@ -20,8 +20,10 @@ I believe these are strengths and weaknesses of each program:
 
 ## The Strategy
 ****
-Using this knowledge, I've found an effective strategy to be to use codecademy as syntax practice, treehouse as foundation building, and freecodecamp as a source of quick review and projects. Below
 
+Using this knowledge, I've found an effective strategy to be to **use codecademy as syntax practice, treehouse as foundation building, and freecodecamp as a source of quick review and projects**.
+
+This learning order is, by design, redundant: repetition is invaluable to solidifying long term knowledge. If you feel truly confident in your ability, though, use your best judgement on whether or not to skip sections. 
 
 Notes:
 Treehouse time estimates can be very conservative, especially when there is a project involved. 
