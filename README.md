@@ -8,15 +8,14 @@ Students wishing to learn web development online have a number of free options t
 ****
 I believe these are strengths and weaknesses of each program:
 
-|Codecademy |  Treehouse	|	
-|---------------------------------|-----------------------------------------|
-|Pros:														| Pros:																		|
-| - instant feedback							| - More thorough coverage of topics			|
-| - more practice problems				| - More topics covered										|
-|---------------------------------|-----------------------------------------|
-|Cons:														|Cons:																		|
-| - Tells how, not always why			| - (mostly) walks you through problems		|
-| - no projects (behind paywall)	| - video based, so pace is set for you.  |
+|Codecademy |  Treehouse	|	FreeCodeCamp |
+|---------------------------------|-----------------------------------------|------------------------------------|
+|Pros:														| Pros:																		|Pros:                               |
+| - instant feedback							| - More thorough coverage of topics			| - Lots of practical projects       |
+| - more practice problems				| - More topics covered										| - Emphasis on problem solving      |
+|Cons:														|Cons:																		|Cons:                               |
+| - Tells how, not always why			| - (mostly) walks you through problems		| - under-developed lessons          |
+| - no projects (behind paywall)	| - video based, so pace is set for you.  | - potentially steep learning curve |
 
 
 ### Treehouse
