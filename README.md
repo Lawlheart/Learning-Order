@@ -43,7 +43,7 @@ YT 		Youtube.com
 
 #### FRONT END DEVELOPMENT
 
-HTML & CSS Basics
+##### HTML & CSS Basics
  - CC 	HTML & CSS*
  - TH 	How to Make a Website
  - TH 	CSS Basics
@@ -51,39 +51,39 @@ HTML & CSS Basics
  - TH 	CSS Layout Basics * #
  - FCC 	HTML5 and CSS
 
-JavaScript Basics
+##### JavaScript Basics
  - CC  	JavaScript
  - TH  	JavaScript Basics
  - TH  	JavaScript Loops, Arrays, and Objects
  - FCC 	Basic JavaScript
 
-Responsive Design	
+##### Responsive Design	
  - TH  	Responsive Layouts
  - TH  	CSS Flexbox Layout * #
  - TH  	CSS Selectors *
  - FCC 	Responsive Design with Bootstrap
 
-jQuery
+##### jQuery
  - CC  	jQuery
  - TH  	jQuery Basics
  - TH  	Using jQuery Plugins
  - TH  	Interactive Web Pages with JavaScript
  - FCC 	jQuery
 
-Object-Oriented JavaScript
+##### Object-Oriented JavaScript
  - TH  	Object-Oriented JavaScript
  - FCC 	Object Oriented and Functional Programming 
  - FCC 	Basic Algorithm Scripting
 
-Front End Development I
+##### Front End Development I
  - FCC 	Basic Front End Development Projects
  - FCC 	Intermediate Algorithm Scripting
 
-JSON, AJAX, and APIs
+##### JSON, AJAX, and APIs
  - TH  	AJAX Basics
  - FCC 	JSON APIs and Ajax
 
-Front End Development II
+##### Front End Development II
  - TH  	Accessibility*
  - TH  	Website Optimization*
  - FCC 	Intermediate Front End Development Projects
@@ -104,46 +104,46 @@ whether my current resources on React will be sufficient on their own.
 
 #### FRAMEWORS AND DATA VISUALIZATION
 
-Sass
+##### Sass
  - TH  Sass Basics
  - TH  Advanced Sass *#
 
-AngularJS 
+##### AngularJS 
  - CS 	Shaping up with AngularJS
  - CC  AngularJS
  - YT  AngularJS Fundamentals in 60-ish Minutes https://www.youtube.com/watch?v=i9MHigUZKEM
  - TH  AngularJS Basics #
 
-ReactJS
+##### ReactJS
  - PL 	React.js: Getting Started
  - PL  Styling React Components #
  - FCC React Projects
 
-d3.js
+##### d3.js
  - TH  d3.js
  - PL  D3.js Data Visualization Fundamentals *#
  - FCC Data Visualization Projects
 
 #### FULLSTACK JAVASCRIPT
 
-Console and Git
+##### Console and Git
  - TH  Console Foundations
  - FCC Automated Testing and Debugging
  - TH  Git Basics
  - FCC Git
 
-Node and Express
+##### Node and Express
  - TH  Node.js Basics
  - TH  Build a Simple Dynamic Site with Node.js
  - TH  npm Basics
  - TH  Express Basics #
  - FCC Node.js and Express.js
 
-MongoDB
+##### MongoDB
  - TH  Mongo Basics #
  - FCC MongoDB 
 
-Fullstack Projects
+##### Fullstack Projects
  - TH  Front End Performance Optimization
  - TH  Gulp Basics*
  - FCC API Projects
