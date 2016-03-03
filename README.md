@@ -104,7 +104,7 @@ have been on Pluralsight.com, I've found that knowing angularjs has made learnin
 Of course, your mileage may vary. Feel free to learn one or the other, but know that I don't know 
 whether my current resources on React will be sufficient on their own. 
 
-#### FRAMEWORS AND DATA VISUALIZATION
+#### FRAMEWORKS AND DATA VISUALIZATION
 
 ##### Sass
  - TH  Sass Basics
